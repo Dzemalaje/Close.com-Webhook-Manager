@@ -1,0 +1,5 @@
+{
+  "name": "Close.com Webhook Manager",
+  "description": "A comprehensive tool to view, create, and manage Close CRM webhook subscriptions.",
+  "requestFramePermissions": []
+}
